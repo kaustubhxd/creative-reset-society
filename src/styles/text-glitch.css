@@ -1,6 +1,6 @@
-/* Text Glitch Animation */
+/* Text Glitch Animation: https://codepen.io/mattgrosswork/pen/VwprebG */
 .hero {
-    font-size: clamp(40px, 10vw, 80px);
+    font-size: clamp(40px, 60px, 60px);
     line-height: 1;
     display: inline-block;
     color: #fff;
